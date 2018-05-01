@@ -66,7 +66,8 @@ I source the power from the lawn mower, you do not have to do that, you can run 
 The built is quite straight forward. Adding the filter for the two buttons and connect in/out of the DC-DC converters.
 
 # The Arduino Code
-I found this code on the Home Assistant homepage, credits to: XXXX
+I found this code on the Home Assistant homepage, credits to the HASS community, found the code on this thread: https://community.home-assistant.io/t/arduino-relay-switches-over-wifi-controlled-via-hass-mqtt-comes-with-ota-support/13439/10
+
 The code compiles great in Arduino IDE, it requires the ESP8266 setup as well as the MQTT libs installed.
 Change the SSID, Password and MQTT details to fit your setup.
 
