@@ -4,7 +4,7 @@
 - Ground the boundry wire in case of thunder bold lightning
 - Being able to disable the front lawn using relays and re-routing of the boundry wire
 - Knowing when the lawn mower got stuck (did not come back to charge)
-- Installing a "wife friendly" button to control the front lawn zone
+- Installing a "manual" button to control the front lawn zone
 
 # Pre-req´s
 This build is based around the home automation system Home Assistant and uses a ESP8266 micro controller to communicate with Home Assistant via wifi.
