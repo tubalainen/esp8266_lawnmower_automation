@@ -1,5 +1,11 @@
 # Automation of any lawn mower robot using an ESP8266 / NodeMCU / Wimos D1 Mini using Home Assistant
 
+# What I want to achive
+- Ground the boundry wire in case of thunder bold lightning
+- Being able to disable the front lawn using relays and re-routing of the boundry wire
+- Knowing when the lawn mower got stuck (did not come back to charge)
+- Installing a "wife friendly" button to control the front lawn zone
+
 # Pre-req´s
 This build is based around the home automation system Home Assistant and uses a ESP8266 micro controller to communicate with Home Assistant via wifi.
 Further more you would also need a lawn mower shelter / house where you can install the system.
