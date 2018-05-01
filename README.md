@@ -54,8 +54,8 @@ The whole build is quite basic, I control two relays and uses to GPIOs for switc
 -	Terminal screw block: https://www.kjell.com/se/sortiment/el-verktyg/elektronik/montering/luxorparts-skruvplint-5-mm-4-pol-10-pack-p90762
 
 (Please note that all components above can be sourced from anywhere. Most components are priced except for the DC-DC converters…)
-The build
 
+# The build
 I source the power from the lawn mower, you do not have to do that, you can run a separate power to the micro controller and relays if you want. It would be preferred hence you could use one of the relays to turn on/off the power to lawn mower without losing power to your micro controller and relays. If you decide to source for example 12 VDC from another power source than the lawn mower charger then you can drop one DC-DC converter from the build.
 The built is quite straight forward. Adding the filter for the two buttons and connect in/out of the DC-DC converters.
 
@@ -67,10 +67,10 @@ Change the SSID, Password and MQTT details to fit your setup.
 # Home Assistant
 For more details around HASS, please visit: http://www.home-assistant.io/
 In the repository above you will see some example code for Home Assistant.
-Configuration.yaml
-MQTT server setup
-Timer
-Switches.yaml
-Sensors.yaml
-Automations.yaml
+Configuration.yaml 
+MQTT server setup 
+Timer 
+Switches.yaml 
+Sensors.yaml 
+Automations.yaml 
 
